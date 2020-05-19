@@ -19,3 +19,5 @@ contract FirstTest{
 // Report of Securify //
 
 /******   https://securify.chainsecurity.com/report/cbf1160b2131d4d91c0e087d5656767e8c8b0338e1246362b8286656a6dce2c9 ****/
+
+/** Contract After Rectification **/
