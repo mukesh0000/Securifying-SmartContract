@@ -27,8 +27,8 @@ pragma solidity 0.6.0;
 
 contract FirstTest{
   
-    uint data;
-    address owner;
+    uint public data;
+    address public owner;
       
     
      constructor() public{
