@@ -7,6 +7,7 @@ contract escrow{
     address payable public agent;
     mapping(address => uint) TotalAmount;
     enum State{
+    
         awate_payment, awate_delivery, complete 
     }
     State public state;
